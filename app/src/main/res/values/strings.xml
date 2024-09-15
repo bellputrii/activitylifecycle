@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Intent LoginApp</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="register">Register</string>
+    <string name="phone">Phone</string>
+    <string name="password">Password</string>
+    <string name="checkbox">By checking the box you agree to our</string>
+    <string name="checkbox_2">Terms</string>
+    <string name="checkbox_3">and</string>
+    <string name="checkbox_4">Conditions</string>
+    <string name="login">Login</string>
+    <string name="remember_me">Remember me</string>
+    <string name="have_account">Already Have an Account?</string>
+    <string name="your_email_activated">Your email has been activated</string>
+    <string name="your_phone_activated">Your phone has been activated</string>
+    <string name="welcome_username">Welcome Username</string>
+    <string name="welcome">Welcome</string>
+    <string name="homepage">HomePage</string>
+    <string name="your">Your</string>
+</resources>
